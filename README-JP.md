@@ -96,6 +96,10 @@ bash start.sh
     └── index.html       # フロントエンド（Vonage Video JS SDK）
 ```
 
+## デモ動画
+
+https://youtu.be/5taJ_hgSULw?si=_HO-yOj6CTX-pDuKs
+
 ## 注意事項
 
 - Cloudflare Tunnel（`trycloudflare.com`）は稼働保証なしのクイックトンネルです。本番運用時は名前付きトンネル＋独自ドメインを推奨します。

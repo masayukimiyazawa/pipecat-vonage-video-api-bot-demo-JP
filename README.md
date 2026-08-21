@@ -112,5 +112,6 @@ Go to the printed URL and click **接続** (Connect).
 ## Sequencing
 
 The bot initiates conversation on client connection by queueing an `LLMRunFrame`. No wake word required.
-# pipecat-vonage-video-api-bot-demo-JP
-# pipecat-vonage-video-api-bot-demo-JP
+
+## Demo Video Clip (Japanese)
+https://youtu.be/5taJ_hgSULw?si=_HO-yOj6CTX-pDuK
